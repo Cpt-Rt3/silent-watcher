@@ -1,3 +1,5 @@
+Built by Ruben Treviño Rt3 — Cybersecurity Graduate Student
+
 🛡️ Silent Watcher — SSH Log Analyzer
 
 A Python-based security tool designed to detect suspicious SSH login activity, including brute-force attacks, and generate structured alert reports.
