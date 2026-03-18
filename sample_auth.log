@@ -1,0 +1,13 @@
+Mar 18 08:14:01 ubuntu-server sshd[1234]: Failed password for invalid user admin from 192.168.1.50 port 54211 ssh2
+Mar 18 08:14:05 ubuntu-server sshd[1235]: Failed password for invalid user root from 192.168.1.50 port 54212 ssh2
+Mar 18 08:14:09 ubuntu-server sshd[1236]: Failed password for invalid user test from 192.168.1.50 port 54213 ssh2
+Mar 18 08:14:15 ubuntu-server sshd[1237]: Accepted password for rt3 from 192.168.1.20 port 54214 ssh2
+Mar 18 08:20:01 ubuntu-server sshd[1240]: Failed password for invalid user guest from 10.0.0.99 port 60211 ssh2
+Mar 18 08:20:03 ubuntu-server sshd[1241]: Failed password for invalid user guest from 10.0.0.99 port 60212 ssh2
+Mar 18 08:20:07 ubuntu-server sshd[1242]: Failed password for invalid user guest from 10.0.0.99 port 60213 ssh2
+Mar 18 08:20:10 ubuntu-server sshd[1243]: Failed password for invalid user guest from 10.0.0.99 port 60214 ssh2
+Mar 18 08:20:13 ubuntu-server sshd[1244]: Failed password for invalid user guest from 10.0.0.99 port 60215 ssh2
+Mar 18 08:25:22 ubuntu-server sshd[1250]: Accepted password for analyst from 203.0.113.7 port 61000 ssh2
+Mar 18 08:26:00 ubuntu-server sshd[1251]: Failed password for invalid user oracle from 203.0.113.200 port 61001 ssh2
+Mar 18 08:26:03 ubuntu-server sshd[1252]: Failed password for invalid user oracle from 203.0.113.200 port 61002 ssh2
+Mar 18 08:26:06 ubuntu-server sshd[1253]: Failed password for invalid user oracle from 203.0.113.200 port 61003 ssh2
